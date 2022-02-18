@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attributes</string>
+    <string name="Yellow">Желтый фон</string>
+    <string name="_24sp">Размер - 24SP</string>
+    <string name="_8sp">Размер - 8SP</string>
+    <string name="RedT">Красный текст</string>
+    <string name="White">Белый фон</string>
+    <string name="BlackT">Черный текст</string>
+</resources>
